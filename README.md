@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0608-tree-node](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0608-tree-node/) | Medium |
 | [1789-primary-department-for-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 <!---LeetCode Topics End-->
