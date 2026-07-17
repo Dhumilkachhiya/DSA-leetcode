@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0595-big-countries/) | Easy |
 | [0608-tree-node](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [1075-project-employees-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Array
