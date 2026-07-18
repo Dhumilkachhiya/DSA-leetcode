@@ -6,16 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0134-gas-station](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0134-gas-station/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -71,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 <!---LeetCode Topics End-->
