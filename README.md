@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 ## Array
