@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0134-gas-station/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
