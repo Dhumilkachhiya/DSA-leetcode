@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [0626-exchange-seats](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1075-project-employees-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
