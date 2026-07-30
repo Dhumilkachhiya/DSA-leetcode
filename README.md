@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0584-find-customer-referee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0595-big-countries/) | Easy |
