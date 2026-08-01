@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0134-gas-station](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0134-gas-station/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -102,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Enumeration
@@ -154,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
