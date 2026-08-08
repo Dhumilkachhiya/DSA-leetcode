@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1075-project-employees-i/) | Easy |
+| [1158-market-analysis-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1158-market-analysis-i/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
