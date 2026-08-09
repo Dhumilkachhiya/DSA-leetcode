@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1280-students-and-examinations](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1407-top-travellers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
