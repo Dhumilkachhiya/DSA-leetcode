@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Greedy
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 <!---LeetCode Topics End-->
