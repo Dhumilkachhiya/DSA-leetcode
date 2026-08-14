@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-fix-names-in-a-table](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Array
 | Problem Name | Difficulty |
