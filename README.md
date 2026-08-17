@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
