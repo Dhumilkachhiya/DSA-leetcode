@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
