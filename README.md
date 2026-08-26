@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -225,11 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
