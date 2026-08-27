@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -226,12 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
