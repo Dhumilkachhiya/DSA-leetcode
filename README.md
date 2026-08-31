@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
