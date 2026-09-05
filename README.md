@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
