@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [3436-find-valid-emails](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3436-find-valid-emails/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
