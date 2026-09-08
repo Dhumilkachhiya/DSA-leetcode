@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0134-gas-station](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0134-gas-station/) | Medium |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
