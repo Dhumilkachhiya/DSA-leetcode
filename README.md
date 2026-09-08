@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -286,10 +287,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
