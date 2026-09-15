@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1296-divide-array-in-sets-of-k-consecutive-numbers/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0877-stone-game/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
