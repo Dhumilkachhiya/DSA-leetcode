@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0198-house-robber](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0877-stone-game](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0877-stone-game/) | Medium |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
@@ -312,8 +314,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
