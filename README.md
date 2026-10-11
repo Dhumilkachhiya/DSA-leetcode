@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dhumilkachhiya/DSA-leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Number Theory
